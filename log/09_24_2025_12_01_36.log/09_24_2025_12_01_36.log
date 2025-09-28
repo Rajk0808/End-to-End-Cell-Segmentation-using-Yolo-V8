@@ -1,0 +1,10 @@
+[ 2025-09-24 12:01:36,676 ] werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.7:8080
+[ 2025-09-24 12:01:36,676 ] werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2025-09-24 12:01:36,677 ] werkzeug - INFO -  * Restarting with stat
+[ 2025-09-24 12:01:37,204 ] werkzeug - WARNING -  * Debugger is active!
+[ 2025-09-24 12:01:37,208 ] werkzeug - INFO -  * Debugger PIN: 928-447-725
+[ 2025-09-24 12:03:37,337 ] werkzeug - INFO -  * Detected change in 'D:\\Data Science\\End-to-end-Cell-Segmentation-Using-Yolo-v8-main\\End-to-end-Cell-Segmentation-Using-Yolo-v8-main\\app.py', reloading
+[ 2025-09-24 12:03:37,390 ] werkzeug - INFO -  * Restarting with stat

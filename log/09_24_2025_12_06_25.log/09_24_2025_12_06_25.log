@@ -1,0 +1,6 @@
+[ 2025-09-24 12:06:26,350 ] werkzeug - WARNING -  * Debugger is active!
+[ 2025-09-24 12:06:26,352 ] werkzeug - INFO -  * Debugger PIN: 928-447-725
+[ 2025-09-24 12:07:12,884 ] werkzeug - INFO - 127.0.0.1 - - [24/Sep/2025 12:07:12] "GET / HTTP/1.1" 200 -
+[ 2025-09-24 12:07:14,226 ] werkzeug - INFO - 127.0.0.1 - - [24/Sep/2025 12:07:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-09-24 12:08:00,487 ] werkzeug - INFO - 127.0.0.1 - - [24/Sep/2025 12:08:00] "POST /predict HTTP/1.1" 200 -
+[ 2025-09-24 12:10:31,782 ] werkzeug - INFO - 127.0.0.1 - - [24/Sep/2025 12:10:31] "POST /predict HTTP/1.1" 200 -
